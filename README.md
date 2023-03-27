@@ -13,3 +13,6 @@ In addition to the normal ant behavior, the FPAO algorithm introduces an additio
 
 
 ![image](https://user-images.githubusercontent.com/64318469/227767151-d2b264fa-275d-4de1-a2f9-e9724ad99eb4.png)
+
+# Acknowledgments
+This code was written for the Abol Tabol competition organized by Jadavpur University. Abol Tabol is an event similar to BAHfest, where researchers, science enthusiasts, and comedians come together to present and discuss absurd but entertaining scientific ideas. The event aims to promote critical thinking and scientific literacy by engaging the public with entertaining and thought-provoking presentations. Thanks to the Abol Tabol organizers for providing the opportunity to participate and explore creative scientific ideas.
